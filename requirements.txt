@@ -7,3 +7,8 @@ python-magic
 streamlink
 youtube-dl
 git+https://github.com/yt-dlp/yt-dlp
+oauth2client
+progress
+progressbar2
+httplib2shim
+google_auth_oauthlib
