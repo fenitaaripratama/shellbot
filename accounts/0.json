@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "direct-link-354711",
+  "private_key_id": "490796e7a2f6d0ebb1907953aa1b98826e42c4ce",
+  "private_key": "-----BEGIN PRIVATE KEY-----\\n-----END PRIVATE KEY-----\n",
+  "client_email": "idflteam@googlegroups.com",
+  "client_id": "100233878083837121884",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mfc-i3p7i5ik-rat39hh6a767q4s0t%40direct-link-354711.iam.gserviceaccount.com"
+}
